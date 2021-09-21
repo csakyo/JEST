@@ -44,4 +44,9 @@ describe("filterOrange", () => {
     expect(filterOrange(fruit)).toEqual(['orange']);
   });
 
+  test('There are no oranges on the fruit list.', () => {
+    const fruit = ["apple", "peach"];
+    expect(filterOrange(fruit)).toEqual([]);
+  });
+
 })
