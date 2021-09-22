@@ -1,4 +1,3 @@
 # Jest hands on work 
-
-このサイトは [GitHub Pages](https://pages.github.com/) を使って構築されています。
+[Jest ハンズオン　#もりけん塾](https://github.com/kenmori/handsonFrontend/blob/master/jest/work.md)
 
